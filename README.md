@@ -27,4 +27,4 @@ $ python tradeReconciliation.py
 ```
 Access the application on http://localhost:5000/
 
-Application output can be found under ArpitsTradeReconciliationApplication/index.html
+Application output can be found under TradeReconciliationApplication/index.html
